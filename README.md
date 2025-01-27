@@ -5,9 +5,9 @@ TODO: Need to fill this in.
 
 To find the most demanded skills for the top 3 most popular data roles. I filtered out those positions by which ones were the most popular, and got the top 5 skills for these top 3 roles. THis query highlights the most popular job titles and their top skills. I should pay attention to depending on the role I'm targeting.
 
-View my notebook with detailed steps here: [2_Skills_Intro.ipynb](Project Time/2_Skills_Intro.ipynb)
+View my notebook with detailed steps here: [2_Skills_Intro.ipynb](/Users/jackkennedy/Python_Data_Project/Project Time/2_Skills_Intro.ipynb)
 
-## Vizualize Data
+### Vizualize Data
 
 '''
 fig, ax = plt.subplots(len(job_titles), 1)

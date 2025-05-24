@@ -1,4 +1,3 @@
-TODO: Need to fill this in.
 # The Introduction
 
 Welcome to my analysis of the data job market from the 2023 year. This project was created out the desire to navigate and explore the job market in parallel with the want to help people understand the market. It delves into the top paying skills to the most in-demand skills to help find growth opportunities for Data Analysts to grow in. 
@@ -183,7 +182,7 @@ In-demand skils for data analysts in the US:
 
 ### Insights
 
-- The gap betwwen cloud softwares that are more specializaed compared to programming/vizualation/microsoft software ware is significant when it comes to compensation. The 10th highest cloud software is compensated around 150k  while the 10th highest non-cloud software is around 80k. It's safe to say that learning niche cloud programs will be compensated more, however, these skills may not be in demand as much as the lower paying non-cloud softwares.
+- The gap between cloud softwares that are more specializaed compared to programming/vizualation/microsoft software ware is significant when it comes to compensation. The 10th highest cloud software is compensated around 150k  while the 10th highest non-cloud software is around 80k. It's safe to say that learning niche cloud programs will be compensated more, however, these skills may not be in demand as much as the lower paying non-cloud softwares.
 
 - Programming and Visualation Softwares (python, tableau, sql) are on average more compesated then microsoft softwares (power bi, powerpoint, excel, word). Although this insight may not be as significant due to the gap being around 15K from top to bottom.
 
